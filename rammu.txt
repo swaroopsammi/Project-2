@@ -6,3 +6,5 @@ again edit in master
 now i'm editing in feature branch
 >>>>>>> feature
 Nuvu suueper yehe
+This is change on GITHub
+Let's see what going to happen
