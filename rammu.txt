@@ -1,5 +1,7 @@
 Rammu
 is
 project manage
-you are supe
+<<<<<<< HEAD
 again edit in master
+now i'm editing in feature branch
+>>>>>>> feature
